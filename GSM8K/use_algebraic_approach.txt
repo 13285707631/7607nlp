@@ -1,0 +1,36 @@
+(' John found that the average of 15 numbers is 40. If 10 is added to each number
+then the mean of the numbers
+',
+Approach: <using algebra>
+Let us denote the sum of the 15 numbers as S. Since the average of the 15 numbers is 40,
+we can write the equation: S / 15 = 40 S = 40 * 15 = 600 Now, we add 10 to each
+number, so the new sum is S + 15 * 10 = 600 + 150 = 750. The new average is: New
+average = 750 / 15 = 50
+\n#### 50')
+(' If a / b = 3/4 and 8a + 5b = 22,then find the value of a.
+',
+Approach: <using algebra>
+To solve the given problem, we can use substitution. Since a / b = 3/4, we can write that
+as: a = 3b/4 Now, substitute this expression for a into the second equation: 8(3b/4) +
+5b = 22 Simplify and solve for b: 6b + 5b = 22 11b = 22 b = 2 Now that we have the
+value of b, we can find the value of a: a = 3b/4 a = 3(2)/4 a = 6/4 a = 3/2 So, the
+value of a is  3/2.
+\n#### 3/2')
+(' A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find
+the distance?
+',
+Approach: <using algebra>
+Using the formula distance = speed × time, we can calculate the distance as follows:
+Distance = 20 km/hr × 2.5 hr = 50 km So, the closest answer choice is 50 km.
+\n#### 50')
+(' How many keystrokes are needed to type the numbers from 1 to 500?
+', '
+Approach: <using algebra>
+Let us break down the number of keystrokes needed into groups based on the number of
+digits: One-digit numbers (1-9): There are 9 one-digit numbers, so we need 9 keystrokes.
+Two-digit numbers (10-99): There are 90 two-digit numbers, each requiring 2 keystrokes,
+so we need 90 * 2 = 180 keystrokes. Three-digit numbers (100-500): There are 401
+three-digit numbers (500 - 100 + 1), each requiring 3 keystrokes, so we need 401 * 3 =
+1203 keystrokes. Now let’s add up the keystrokes from all groups: 9 + 180 + 1203 =
+1392.
+\n#### 1392')
